@@ -5,6 +5,7 @@ public class MeaningOfThis
 	public final int value = 4;
 	public void doIt()
 	{
+		///
 		//
 		//
 		int value = 6;
