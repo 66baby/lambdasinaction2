@@ -6,6 +6,7 @@ public class MeaningOfThis
 	public void doIt()
 	{
 		//
+		//
 		int value = 6;
 		Runnable r = new Runnable(){
 			public final int value = 5;
